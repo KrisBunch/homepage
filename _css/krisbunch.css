@@ -1,0 +1,55 @@
+body {
+    font-size: 1em;
+    background-color: #2A3012;
+    color: #E3FF78;
+    font-family: sans-serif,helvetica;
+    margin: 0;
+    padding: 0;
+}
+.content {
+    padding: 0.1em 3em;
+}
+img {
+    border: 0px solid #fff;
+    padding: 2px;
+    margin: 2px;
+}
+h1 {
+    font-size: 3em;
+    background-color: #2A3012;
+    color: #7B874D;
+    text-align: left;
+    margin: 0;
+    padding: 1em;
+    font-weight: bold;
+    margin-left: -0.5em;
+    width: 50%;
+}
+h2 {
+    font-size: 4em;
+}
+.agent {
+    padding: 0.1em 1.1em 0.1em 0em;
+    margin: 0;
+    border: 5px solid #121408;
+    border-left-width: 2px;
+    border-top-width: 2px;
+    text-align: right;
+    position: fixed;
+    width: 35%;
+    top: 20px;
+    right: 30px;
+}
+#copyright {
+  position: absolute;
+  font: normal 8px helvetica, arial, sans-serif;
+  clear: both;
+  bottom: 0px;
+  margin-left: 50%;
+  margin-bottom: 10px;
+  text-transform: lowercase;
+  color: #000000;
+  display: block;
+  text-align: center;
+}
+
